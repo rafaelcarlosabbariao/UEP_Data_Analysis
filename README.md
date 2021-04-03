@@ -7,4 +7,3 @@ Applied a genetic algorithm to the neural network to find optimal network parame
 
 More on the implemented genetic algorithm here: https://github.com/harvitronix/neural-network-genetic-algorithm https://lethain.com/genetic-algorithms-cool-name-damn-simple/
 
-Currently exploring the dataset provided by UEP's laboratory research group
